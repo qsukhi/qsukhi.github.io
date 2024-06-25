@@ -1,9 +1,9 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Sukhbinder Singh
+  ## Sukhi Singh
   Physicist and part-time philosopher
-feature_image: "assests/banner.jpeg"
+feature_image: ![Banner](/assets/logo.png)
 excerpt: "I’m a physicist working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
