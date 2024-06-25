@@ -3,25 +3,24 @@ title: About Alembic
 feature_text: |
   ## Sukhi Singh
   Physicist and part-time philosopher
-feature_image: ![Banner](/assets/logo.png)
+feature_image: "assets/banner.jpeg"
 excerpt: "I’m a physicist working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
-<section class="timeline">
-    <div class="timeline-item">
-        <h2>2024 -</h2>
-        <p>Coming soon</p>
-    </div>
-    <div class="timeline-item">
-        <h2>2023 - 2024</h2>
-        <p>Back to OpenAI. Built a small team, launched a model to ChatGPT.</p>
-    </div>
-    <!-- Add more timeline items here -->
-</section>
-        
-<!--Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.>
+### Dec 2023 - Present
+I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
 
-<!--{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}>
+### Jun 2021 - Nov 2023
+I was a Senior Research Fellow in the Quantum Information and Quantum Open Dynamics Group at Monash University in Melbourne, Australia. I helped developed a [new theory](https://arxiv.org/abs/2312.04624) of non-Markovian quantum processes with long-range memory, characterized by long-range temporal correlations that decay polynomially. I proposed that a large class of such processes can be represented by a tree tensor network made of causality preserving tensors (realized as . 
+
+#### August
+- Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.
+- Bitcoin.org was registered at [anonymousspeech.com](https://anonymousspeech.com/).
+
+
+Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+
+{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
