@@ -55,16 +55,14 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - Mechanistic Interpretability via Tensorized Neural Networks (TNNs): How do activations circuits develop inside TNNs? Do TTNs generalize better than dense NNs?
 
 ## Slides from some of my talks
-#### European Tensor Network School
-- [Introduction to MERA](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_MERA_ETN_School.pdf?raw=true)
-- [Introduction to Symmetric Tensor Networks](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_Syms_ETN_School.pdf?raw=true)
+- [Introduction to MERA](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_MERA_ETN_School.pdf?raw=true) [Delivered at the European Tensor Network School]
+- [Introduction to Symmetric Tensor Networks](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_Syms_ETN_School.pdf?raw=true) [Delivered at the European Tensor Network School]
 
 - [Tensor networks and quantum phases of matter](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/TNs_quantum_phases.pdf?raw=true) [Delivered at Technical University of Munich]
 
 - My [rant](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/intro_to_ncon.pdf?raw=true) on why you should use ncon() for implementing tensor network contractions. [Delivered to non-TN experts at Monash University)
 - [Using MPS to detect violations of Bell inequalities](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/nonlocality.pdf?raw=true)
   
-#### MERA and Holography
 - An early [idea](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Early_idea_MERA_Coogee.pdf?raw=true) on how to build a holographic description of the MERA. [Delivered at Coogee Quantum Information Workshop in Sydney]
 - [Overview](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/MERA_and_holography.pdf?raw=true) of the connection between the MERA and holography [Delivered at Technical University of Vienna]
 - A [talk](https://pirsa.org/16100044) I gave at Perimeter Institute
