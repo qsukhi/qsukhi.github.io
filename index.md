@@ -1,4 +1,4 @@
----
+o---
 title: About Alembic
 feature_text: |
   ## Sukhi Singh
@@ -11,11 +11,15 @@ excerpt: "I’m a physicist working at the intersection of quantum information t
 I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
 
 ### Jun 2021 - Nov 2023
-I was a Senior Research Fellow in the Quantum Information and Quantum Open Dynamics Group at Monash University in Melbourne, Australia. I helped developed a [new theory](https://arxiv.org/abs/2312.04624) of non-Markovian quantum processes with long-range memory, characterized by long-range temporal correlations that decay polynomially. I proposed that a large class of such processes can be represented by a tree tensor network made of causality preserving tensors (realized as . 
+I was a Senior Research Fellow in the Quantum Information and Quantum Open Dynamics Group (led by  at Monash University in Melbourne, Australia. I helped developed a [new theory](https://arxiv.org/abs/2312.04624) of non-Markovian quantum processes with long-range memory, characterized by long-range temporal correlations that decay polynomially. I proposed that a large class of such processes can be represented by a tree tensor network made of causality preserving tensors (mathematically described by linear processes between [process tensors](https://arxiv.org/abs/1512.00589). 
 
-#### August
-- Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.
-- Bitcoin.org was registered at [anonymousspeech.com](https://anonymousspeech.com/).
+### Jan 2021 - Jun 2021
+Had lots of fun and sleepless nights with my twin boys, born in Jan 2021.
+
+### July 2018 - Dec 2020
+I was a Senior Research Fellow in the Quantum Information, Gravity, and Fields group. Here I worked on incorporating conformal symmetry in tensor networks for studying conformal field theories. This work is still unpublished, but was presented at at a couple of workshops -- Mathematics of Conformal Field Theory at the Australian National University in Canberra, Australia (2021), Meeting on string nets and tensor networks in Hamburg, Germany (2020), and the Workshop on Quantum Simulation: Gauge Fields, Holography, and Topology in Bilbao, Spain (2019). I've discussed these ideas with [Guifre Vidal](https://heritageproject.caltech.edu/interviews/guifre-vidal), [Ingo Runkel](https://www.qu.uni-hamburg.de/cluster/team/runkel.html), [Michal Heller](https://scholar.google.com/citations?user=_zIEMx4AAAAJ&hl=en), and Dominic Williamson
+
+Organized the online HEP-TN seminars
 
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
