@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Sukhi Singh
   I like to think deeply about tensor networks and do cool things with them.
-feature_image: <img src="assets/banner.png">
+feature_image: <img src="assets/banner.jpeg">
 excerpt: "I’m a physicist (and a self-professed part-time philosopher) working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
