@@ -1,5 +1,5 @@
-o---
-title: Sukhi Singh's Personal Website
+---
+title: 
 feature_text: |
   ## Sukhi Singh
   I like to think deeply about tensor networks and do cool things with them.
