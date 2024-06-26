@@ -9,7 +9,7 @@ excerpt: "I’m a physicist (and a self-professed part-time philosopher) working
 
 ![Me](assets/my_color.jpg)
 
-## Timeline
+### Timeline
 
 ###### Dec 2023 - Present
 I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
@@ -46,7 +46,7 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - In [this](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.115125) paper, we descibed how to implement the concrete case of U(1) symmetry. We demonstrated the first implementation of U(1)-symmetric MERA.
 - In [this](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.195114) paper, we described how to implement the concrete case of SU(2) symmetry. We demonstrated the first implementation of SU(2)-symmetric MERA.  
 
-## Ongoing personal projects
+### Ongoing personal projects
 #### Physics
 - Incorporating conformal symmetry in discrete tensor networks
 - Matrix Product States with built-in categorical symmetries
@@ -54,7 +54,7 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 #### Deep learning
 - Mechanistic Interpretability via Tensorized Neural Networks (TNNs): How do activations circuits develop inside TNNs? Do TTNs generalize better than dense NNs?
 
-## Slides from some of my talks
+### Slides from some of my talks
 - [Introduction to MERA](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_MERA_ETN_School.pdf?raw=true) [Delivered at the European Tensor Network School]
 - [Introduction to Symmetric Tensor Networks](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Intro_to_Syms_ETN_School.pdf?raw=true) [Delivered at the European Tensor Network School]
 
@@ -67,5 +67,17 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - [Overview](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/MERA_and_holography.pdf?raw=true) of the connection between the MERA and holography [Delivered at Technical University of Vienna]
 - A [talk](https://pirsa.org/16100044) I gave at Perimeter Institute
 
-## Contact
-[q][my first name]@[gmail][dot][com]
+### Programming
+- I am proficient at coding in Python, MATLAB, and C++. I adhere to a purist perpective on object oriented porgramming and think that C++ is still the purest realization of OOP. At the same time, I admire the practical simplicity of Python.
+- I use the PyTorch library for deep learning.
+- I also regularly use software development tools such as Git, Docker, Debuggers, and profilers.
+- I am familiar and have implemented almost all popular tensor network algorithms (TEBD, PEPS, Tree Tensor Network, MERA, tensor networks with symmetries: Z_n, U(1), SU(2), and space reflections, fermionic and anyonic tensor networks.
+  
+### Interests
+- I'm profoundly interested in eastern religious philosophy and mysticism
+- I'm also fascinated by Indian Mythology. I think [the Mahabharat](https://en.wikipedia.org/wiki/Mahabharata), purportedly authored by [Ved Vyas](https://en.wikipedia.org/wiki/Vyasa), could not have been written by a human. Almost on part are [the Yoga Sutras of Patanjali](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) and [the Yoga Vashishth](https://en.wikipedia.org/wiki/Yoga_Vasistha).
+- I'm a big fan of [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)'s books. I love the [BBC adaptation](https://en.wikipedia.org/wiki/Agatha_Christie%27s_Poirot) of Poirot, particularly, [David Suchet's](https://en.wikipedia.org/wiki/David_Suchet) potrayal. I also like reading select Science Fiction.
+- I like playing Squash, and intermittently play in intermediate-level leagues at local squash clubs.
+
+### Contact
+[q][my first name][at][gmail][dot][com]
