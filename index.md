@@ -7,8 +7,7 @@ feature_image: "https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/bann
 excerpt: "I’m a physicist (and a self-professed part-time philosopher) working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
-<img align="right" src="https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/my_color?raw=true" width=50% height=50%>
-
+![Me](assets/my_color.jpg)
 
 ## Timeline
 
