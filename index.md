@@ -10,6 +10,8 @@ excerpt: "I’m a physicist (and a self-professed part-time philosopher) working
 <img align="right" src="assets/my_color.jpg" width=50% height=50% alt="Me">
 
 
+## Timeline
+
 ###### Dec 2023 - Present
 I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
 
@@ -45,10 +47,13 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - In [this](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.115125) paper, we descibed how to implement the concrete case of U(1) symmetry. We demonstrated the first implementation of U(1)-symmetric MERA.
 - In [this](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.195114) paper, we described how to implement the concrete case of SU(2) symmetry. We demonstrated the first implementation of SU(2)-symmetric MERA.  
 
-## Customising
+## Ongoing personal projects
+#### Physics
+- Incorporating conformal symmetry in discrete tensor networks
+- Matrix Product States with built-in categorical symmetries
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+#### Deep learning
+- Mechanistic Interpretability via Tensorized Neural Networks (TNNs): How do activations circuits develop inside TNNs? Do TTNs generalize better than dense NNs?
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+
