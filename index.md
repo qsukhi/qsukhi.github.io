@@ -60,7 +60,7 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 
 - [Tensor networks and quantum phases of matter](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/TNs_quantum_phases.pdf?raw=true) [Delivered at Technical University of Munich]
 
-- My [rant](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/intro_to_ncon.pdf?raw=true) on why you should use ncon() for implementing tensor network contractions. [Delivered to non-TN experts at Monash University]
+- My [rant](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/intro_to_ncon.pdf?raw=true) on why you should use [ncon()](https://arxiv.org/abs/1402.0939) for implementing tensor network contractions. [Delivered to non-TN experts at Monash University]
 - [Using MPS to detect violations of Bell inequalities](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/nonlocality.pdf?raw=true)
   
 - An early [idea](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Early_idea_MERA_Coogee.pdf?raw=true) on how to build a holographic description of the MERA. [Delivered at Coogee Quantum Information Workshop in Sydney]
