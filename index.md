@@ -66,3 +66,6 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - An early [idea](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/Early_idea_MERA_Coogee.pdf?raw=true) on how to build a holographic description of the MERA. [Delivered at Coogee Quantum Information Workshop in Sydney]
 - [Overview](https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/slides/MERA_and_holography.pdf?raw=true) of the connection between the MERA and holography [Delivered at Technical University of Vienna]
 - A [talk](https://pirsa.org/16100044) I gave at Perimeter Institute
+
+## Contact
+[q][my first name]@[gmail][dot][com]
