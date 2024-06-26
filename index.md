@@ -7,7 +7,7 @@ feature_image: ![banner](assets/banner.jpeg)
 excerpt: "I’m a physicist (and a self-professed part-time philosopher) working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
-![Me](assets/my_color.jpg)
+<img align="right" src="assets/my_color.jpg" width=50% height=50% alt=“Me”>
 
 ###### Dec 2023 - Present
 I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
