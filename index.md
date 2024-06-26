@@ -12,7 +12,7 @@ excerpt: "I’m a physicist (and a self-professed part-time philosopher) working
 ### Timeline
 
 ###### Dec 2023 - Present
-I'm a Principle Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
+I'm a Principal Scientist at [Multiverse Computing](https://multiversecomputing.com/), where I lead a research team to develop tensor network algorithms for [simulating quantum many-body systems on classical computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013326), [compressing large neural networks](https://arxiv.org/abs/2401.14109), combinatorial optimization, and quantum chemistry.
 
 ###### Jun 2021 - Nov 2023
 I was a Senior Research Fellow in the Quantum Information Group led by [Kavan Modi](https://research.monash.edu/en/persons/kavan-modi) at Monash University in Melbourne, Australia. I helped developed a [new theory](https://arxiv.org/abs/2312.04624) of non-Markovian quantum processes with long-range memory, characterized by long-range temporal correlations that decay polynomially. I proposed that a large class of such processes can be represented by tree tensor networks made of causality preserving tensors, which are mathematically described by linear maps between [process tensors](https://arxiv.org/abs/1512.00589), providing a first example of an explicit ansatz for such processes.
@@ -68,14 +68,14 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - A [talk](https://pirsa.org/16100044) I gave at Perimeter Institute
 
 ### Programming
-- I am proficient at coding in Python, MATLAB, and C++. I adhere to a purist perpective on object oriented porgramming and think that C++ is still the purest realization of OOP. At the same time, I admire the practical simplicity of Python.
+- I am proficient at coding in Python, MATLAB, and C++. I adhere to a purist perpective on object oriented programming and think that C++ is still the purest realization of OOP. However, I do admire the practical simplicity of Python.
 - I use the PyTorch library for deep learning.
-- I also regularly use software development tools such as Git, Docker, Debuggers, and profilers.
-- I am familiar and have implemented almost all popular tensor network algorithms (TEBD, PEPS, Tree Tensor Network, MERA, tensor networks with symmetries: Z_n, U(1), SU(2), and space reflections, fermionic and anyonic tensor networks.
+- I regularly use software development tools such as Git, Docker, Debuggers, and profilers.
+- I have implemented almost all popular tensor network algorithms: TEBD, DMRG, TDVP, vuMPS, PEPS, Tree Tensor Network, MERA, tensor networks with symmetries: Z_n, U(1), SU(2), and space reflections, fermionic and anyonic tensor networks.
   
 ### Interests
-- I'm profoundly interested in eastern religious philosophy and mysticism
-- I'm also fascinated by Indian Mythology. I think [the Mahabharat](https://en.wikipedia.org/wiki/Mahabharata), purportedly authored by [Ved Vyas](https://en.wikipedia.org/wiki/Vyasa), could not have been written by a human. Almost on part are [the Yoga Sutras of Patanjali](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) and [the Yoga Vashishth](https://en.wikipedia.org/wiki/Yoga_Vasistha).
+- I'm deeply interested in eastern religious philosophy and mysticism
+- I'm also fascinated by Indian Mythology. I think [the Mahabharat](https://en.wikipedia.org/wiki/Mahabharata), purportedly authored by [Ved Vyas](https://en.wikipedia.org/wiki/Vyasa), could not have been written by a human. [[This](https://archive.org/details/MenonRameshTHEMAHABHARATAAModernRenderingVol1) English translation is a good compromise between accuracy and modernization of the prose.] Almost on par on profoundness are [the Yoga Sutras of Patanjali](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) and [the Yoga Vashishth](https://en.wikipedia.org/wiki/Yoga_Vasistha).
 - I'm a big fan of [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)'s books. I love the [BBC adaptation](https://en.wikipedia.org/wiki/Agatha_Christie%27s_Poirot) of Poirot, particularly, [David Suchet's](https://en.wikipedia.org/wiki/David_Suchet) potrayal. I also like reading select Science Fiction.
 - I like playing Squash, and intermittently play in intermediate-level leagues at local squash clubs.
 
