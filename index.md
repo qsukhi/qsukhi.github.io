@@ -4,7 +4,7 @@ feature_text: |
   ## Sukhi Singh
   I like to think deeply about tensor networks and do cool things with them.
 feature_image: "https://github.com/qsukhi/qsukhi.github.io/blob/main/assets/banner.svg?raw=true"
-excerpt: "I’m a physicist (and a self-professed part-time philosopher) working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
+excerpt: "I’m a physicist working at the intersection of quantum information theory, quantum many-body physics, and high-energy physics. I’ve also been applying ideas from quantum physics to compress large neural networks and address NP-hard optimization problems."
 ---
 
 ![Me](assets/my_color.jpg)
@@ -74,10 +74,10 @@ I was fortunate enough to be a PhD student in Guifre Vidal's group at the Univer
 - I have implemented almost all popular tensor network algorithms: TEBD, DMRG, TDVP, vuMPS, PEPS, Tree Tensor Network, MERA, tensor networks with symmetries: Z_n, U(1), SU(2), and space reflections, fermionic and anyonic tensor networks.
   
 ### Interests
+- I intermittently play in intermediate-level leagues at local squash clubs.
+- I'm a big fan of [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)'s books. I love the [BBC adaptation](https://en.wikipedia.org/wiki/Agatha_Christie%27s_Poirot) of Poirot, particularly, [David Suchet's](https://en.wikipedia.org/wiki/David_Suchet) potrayal. I also like reading select Science Fiction.
 - I'm deeply interested in eastern religious philosophy and mysticism
 - I'm also fascinated by Indian Mythology. I think [the Mahabharat](https://en.wikipedia.org/wiki/Mahabharata), purportedly authored by [Ved Vyas](https://en.wikipedia.org/wiki/Vyasa), could not have been written by a human. [[This](https://archive.org/details/MenonRameshTHEMAHABHARATAAModernRenderingVol1) English translation is a good compromise between accuracy and modernization of the prose.] Almost on par on profoundness are [the Yoga Sutras of Patanjali](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) and [the Yoga Vashishth](https://en.wikipedia.org/wiki/Yoga_Vasistha).
-- I'm a big fan of [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)'s books. I love the [BBC adaptation](https://en.wikipedia.org/wiki/Agatha_Christie%27s_Poirot) of Poirot, particularly, [David Suchet's](https://en.wikipedia.org/wiki/David_Suchet) potrayal. I also like reading select Science Fiction.
-- I like playing Squash, and intermittently play in intermediate-level leagues at local squash clubs.
 
 ### Contact
 [q][my first name][at][gmail][dot][com]
